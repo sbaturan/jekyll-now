@@ -6,10 +6,12 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+#### More Information
+
+Testing bigger header (extra hash thrown in).
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+## Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sergebaturan@protonmail.com](mailto:sergebaturan@protonmail.com)
