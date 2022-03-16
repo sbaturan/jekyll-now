@@ -14,8 +14,6 @@ Here I'll be documenting some tech-related learnings, and some related to busine
 
 Stay tuned!
 
-### Test header3
-
 ## Questions?
 
 [Email me!](mailto:sergebaturan@protonmail.com)
