@@ -4,14 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! 
 
-#### More Information
+I'm Serge.
 
-Testing bigger header (extra hash thrown in).
+I'm an Australia-based marketer, explorer, optimiser and endlessly curious cat.
 
-A place to include any other types of information that you'd like to include about yourself.
+Here I'll be documenting some tech-related learnings, and some related to business, productivity and personal growth.
 
-## Contact me
+Stay tuned!
 
-[sergebaturan@protonmail.com](mailto:sergebaturan@protonmail.com)
+### Test header3
+
+## Questions?
+
+Email me!(mailto:sergebaturan@protonmail.com)
