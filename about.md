@@ -18,4 +18,4 @@ Stay tuned!
 
 ## Questions?
 
-Email me!(mailto:sergebaturan@protonmail.com)
+[Email me!](mailto:sergebaturan@protonmail.com)
